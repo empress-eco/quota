@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Project Logo">
-</p>
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 An essential utility for managing user, company, and space limitations in Empress. Explore the [documentation](https://empress.eco/), [report a bug](https://github.com/empress-eco/quota/issues), or [request a feature](https://github.com/empress-eco/quota/issues).
+
+</div>
+
+
 
 ## About The Project
 
